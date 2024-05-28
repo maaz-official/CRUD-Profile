@@ -1,14 +1,12 @@
+
 ```markdown
 # CRUD Profile
 
-![Project Image](![image](https://github.com/maaz-official/CRUD-Profile/assets/161757387/0c508e40-07ce-498e-99bc-5d9f6b02c2a9)
-)
+![Project Image](https://github.com/maaz-official/CRUD-Profile/assets/161757387/0c508e40-07ce-498e-99bc-5d9f6b02c2a9)
 
-![Project Image](![image](https://github.com/maaz-official/CRUD-Profile/assets/161757387/ef835ada-fc26-44dd-ade2-b4d21c5eb50a)
-)
+![Project Image](https://github.com/maaz-official/CRUD-Profile/assets/161757387/ef835ada-fc26-44dd-ade2-b4d21c5eb50a)
 
-![Project Image](![image](https://github.com/maaz-official/CRUD-Profile/assets/161757387/005e72af-9ae4-4fbf-ae45-5c794b8b58c7)
-)
+![Project Image](https://github.com/maaz-official/CRUD-Profile/assets/161757387/005e72af-9ae4-4fbf-ae45-5c794b8b58c7)
 
 
 ## Description
@@ -54,4 +52,4 @@ MIT
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ```
 
-Replace the URLs `https://example.com/logo.png` and `https://example.com/animation.gif` with the actual URLs of your project's logo and animation respectively. This will make your README more visually appealing and engaging.
+Make sure the URLs you provide for the images are correct and accessible. Once you replace the placeholder URLs with the actual ones, your images should display correctly in the README. Let me know if you need further assistance!
