@@ -20,13 +20,12 @@ npm install
 - **@emotion/styled**: A styled component library for Emotion.
 
 ## Usage
-[Add instructions on how to use your project here]
-
+You guys are free to use it....
 ## Contributing
-[Add guidelines for contributing to your project here]
+No Contribution if anyone intrested can do for pay
 
 ## License
-[Add information about your project's license here]
+MIT
 ```
 
 Feel free to customize the details according to your project's specific dependencies, usage instructions, contribution guidelines, and license information.
