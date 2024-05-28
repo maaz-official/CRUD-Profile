@@ -1,5 +1,3 @@
-Certainly! Here's an updated version of your README.md file with added animation images and some enhancements:
-
 ```markdown
 # CRUD Profile
 
