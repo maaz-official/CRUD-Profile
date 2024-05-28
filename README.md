@@ -1,7 +1,7 @@
 ```markdown
 # CRUD Profile
 
-![Project Logo](https://example.com/logo.png)
+![Project Images](https://example.com/logo.png)
 
 ![Project Animation](https://example.com/animation.gif)
 
