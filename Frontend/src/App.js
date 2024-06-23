@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import Home from './pages/Home';
@@ -13,9 +13,12 @@ export default function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/create-user' element={<CreateUser />} />
-        <Route path='/update-user/:id' element={<UpdateUser />} />
+        <Route 
+          path="/update/:id" 
+          element={<UpdateUser />} 
+        />
         <Route path='*' element={<NotFound />} />
       </Routes>
     </Router>
-  )
+  );
 }

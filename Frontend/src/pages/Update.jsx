@@ -44,7 +44,9 @@ const Update = () => {
         setIsLoading(true);
         try {
             const response = await axios.post(`http://localhost:5000/users/update_user/${id}`, updatedUser, {
-                headers: { 'Content-Type': 'application/json' }
+                headers: {
+                    'Content-Type': 'application/json'
+                }
             });
 
             if (response.status === 200) {
@@ -69,7 +71,9 @@ const Update = () => {
     }
 
     return (
-        <Container maxWidth="sm">
+        <Container maxWidth="sm" style={{
+            marginTop: 100
+        }}>
             <Typography variant="h4" gutterBottom>
                 Update User Here
             </Typography>
@@ -114,3 +118,4 @@ const Update = () => {
 };
 
 export default Update;
+    
