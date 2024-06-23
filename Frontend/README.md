@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+```markdown
+# CRUD Profile
+
+## Description
+[Add a brief description of your project here]
+
+## Installation
+To install the necessary dependencies, run the following command:
+
+```bash
+npm install
+```
+
+### Dependencies
+- **react**: A JavaScript library for building user interfaces.
+- **react-dom**: This package serves as the entry point of the DOM-related rendering paths.
+- **react-router-dom**: DOM bindings for React Router.
+- **@mui/material**: Material-UI is a popular React UI framework for building responsive web applications.
+- **@emotion/react**: Library for writing and managing CSS styles with JavaScript.
+- **@emotion/styled**: A styled component library for Emotion.
+
+## Usage
+You guys are free to use it....
+## Contributing
+No Contribution if anyone intrested can do for pay
+
+## License
+MIT
+```
+
+Feel free to customize the details according to your project's specific dependencies, usage instructions, contribution guidelines, and license information.
+>>>>>>> c84e2d8fdc3d275c5d15537a4d6cb24c481a1cbb
